@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
 ## Binary Search
 |  |
