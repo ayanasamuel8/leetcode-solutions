@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/2092-find-all-people-with-secret) |
 | [2402-meeting-rooms-iii](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/2402-meeting-rooms-iii) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-largest-magic-square](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/1975-maximum-matrix-sum) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/2402-meeting-rooms-iii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -209,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+## Sliding Window
+|  |
+| ------- |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 <!---LeetCode Topics End-->
