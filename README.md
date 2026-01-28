@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/2402-meeting-rooms-iii) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0997-find-the-town-judge](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/1791-find-center-of-star-graph) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Linked List
 |  |
 | ------- |
@@ -217,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+## Shortest Path
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
