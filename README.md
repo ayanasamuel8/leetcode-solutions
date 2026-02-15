@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0067-add-binary) |
 | [0208-implement-trie-prefix-tree](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0756-pyramid-transition-matrix) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0067-add-binary) |
 | [2402-meeting-rooms-iii](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/2402-meeting-rooms-iii) |
 | [3379-transformed-array](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/3379-transformed-array) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -182,12 +184,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0067-add-binary) |
 | [0756-pyramid-transition-matrix](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0756-pyramid-transition-matrix) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0067-add-binary) |
 | [1266-minimum-time-visiting-all-points](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/1390-four-divisors) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
