@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0756-pyramid-transition-matrix](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0756-pyramid-transition-matrix) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Math
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [1382-balance-a-binary-search-tree](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Search Tree
