@@ -8,7 +8,6 @@ class Solution:
     def listOfNumbers(self, root, val):
         if not root.left and not root.right:
             self.ans += (val << 1 | root.val)
-            return
         if root.left:
             self.listOfNumbers(root.left, val << 1 | root.val)
         if root.right:
