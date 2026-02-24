@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Stack
