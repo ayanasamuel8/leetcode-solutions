@@ -5,25 +5,16 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def listOfNumbers(self, root):
+    def listOfNumbers(self, root, val):
         if not root.left and not root.right:
-            return [[root.val, 1]]
-        ans = []
+            self.ans += (val << 1 | root.val)
+            return
         if root.left:
-            ret = self.listOfNumbers(root.left)
-            for i in range(len(ret)):
-                new = root.val << ret[i][1]
-                ret[i] = [new | ret[i][0], ret[i][1] + 1]
-            ans.extend(ret)
+            self.listOfNumbers(root.left, val << 1 | root.val)
         if root.right:
-            ret = self.listOfNumbers(root.right)
-            for i in range(len(ret)):
-                new = root.val << ret[i][1]
-                ret[i] = [new | ret[i][0], ret[i][1] + 1]
-            ans.extend(ret)
-            
-        return ans
+            self.listOfNumbers(root.right, val << 1 | root.val)
 
     def sumRootToLeaf(self, root: Optional[TreeNode]) -> int:
-        arr = [i[0] for i in self.listOfNumbers(root)]
-        return sum(arr)
+        self.ans = 0
+        self.listOfNumbers(root, 0)
+        return self.ans
