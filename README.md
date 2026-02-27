@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/2092-find-all-people-with-secret) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Union Find
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2483-minimum-penalty-for-a-shop](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3714-longest-balanced-substring-ii](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/3714-longest-balanced-substring-ii) |
 ## Greedy
 |  |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/1390-four-divisors) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Tree
 |  |
 | ------- |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -332,4 +336,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+## Union-Find
+|  |
+| ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 <!---LeetCode Topics End-->
