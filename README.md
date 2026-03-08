@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-largest-magic-square](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/1975-maximum-matrix-sum) |
+| [1980-find-unique-binary-string](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/2402-meeting-rooms-iii) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1980-find-unique-binary-string](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0997-find-the-town-judge](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1980-find-unique-binary-string](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [2402-meeting-rooms-iii](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/2402-meeting-rooms-iii) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0401-binary-watch](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0756-pyramid-transition-matrix) |
+| [1980-find-unique-binary-string](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 ## Bit Manipulation
 |  |
 | ------- |
