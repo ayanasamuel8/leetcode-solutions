@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/2092-find-all-people-with-secret) |
 | [2402-meeting-rooms-iii](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/2402-meeting-rooms-iii) |
+| [2463-minimum-total-distance-traveled](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/2402-meeting-rooms-iii) |
+| [2463-minimum-total-distance-traveled](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2751-robot-collisions](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/2751-robot-collisions) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2054-two-best-non-overlapping-events](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
+| [2463-minimum-total-distance-traveled](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
