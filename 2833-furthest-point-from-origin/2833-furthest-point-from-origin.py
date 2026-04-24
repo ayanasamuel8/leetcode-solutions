@@ -1,12 +1,11 @@
 class Solution:
     def furthestDistanceFromOrigin(self, moves: str) -> int:
-        L = R = 0
-        val = {'L': -1, 'R': 1}
+        cnt = 0
+        val = {"L": -1, "R": 1}
+        total = 0
         for i in moves:
-            if i == "_":
-                L -= 1
-                R += 1
+            if i == '_':
+                cnt += 1
             else:
-                L += val[i]
-                R += val[i]
-        return max(abs(L), abs(R))
+                total += val[i]
+        return abs(total) + cnt
