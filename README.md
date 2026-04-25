@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3634-minimum-removals-to-balance-array](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/3634-minimum-removals-to-balance-array) |
 ## Array
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3453-separate-squares-i](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/3454-separate-squares-ii) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [3453-separate-squares-i](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/3454-separate-squares-ii) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
 ## Heap (Priority Queue)
 |  |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
@@ -356,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Segment Tree
 |  |
 | ------- |
