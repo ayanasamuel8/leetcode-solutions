@@ -407,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Doubly-Linked List
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0696-count-binary-substrings](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
