@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2573-find-the-string-with-lcp](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2615-sum-of-distances](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/2615-sum-of-distances) |
 | [2751-robot-collisions](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/2751-robot-collisions) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1914-cyclically-rotating-a-grid](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [2069-walking-robot-simulation-ii](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/2069-walking-robot-simulation-ii) |
 | [2402-meeting-rooms-iii](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/2402-meeting-rooms-iii) |
+| [2553-separate-the-digits-in-an-array](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/2751-robot-collisions) |
 | [3379-transformed-array](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/3379-transformed-array) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
