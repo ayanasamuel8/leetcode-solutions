@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0085-maximal-rectangle) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
