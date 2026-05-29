@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3093-longest-common-suffix-queries](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/3093-longest-common-suffix-queries) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3379-transformed-array](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/3379-transformed-array) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
