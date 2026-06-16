@@ -10,17 +10,8 @@ func processStr(s string) string {
         }else if v == '#'{
             stack = append(stack, stack...)
         }else{
-            stack = reverse(stack)
+            slices.Reverse(stack)
         }
     }
     return string(stack)
-}
-
-func reverse(s []rune) []rune{
-    var rev []rune
-    n := len(s)
-    for i := n - 1; i >= 0; i--{
-        rev = append(rev, s[i])
-    }
-    return rev
 }
