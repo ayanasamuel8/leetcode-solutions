@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0761-special-binary-string](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0761-special-binary-string) |
 | [1200-minimum-absolute-difference](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0874-walking-robot-simulation](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0874-walking-robot-simulation) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0067-add-binary) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1266-minimum-time-visiting-all-points](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
