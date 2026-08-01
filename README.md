@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0486-predict-the-winner](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0874-walking-robot-simulation](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0874-walking-robot-simulation) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0486-predict-the-winner](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0799-champagne-tower](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0799-champagne-tower) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0067-add-binary) |
+| [0486-predict-the-winner](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1266-minimum-time-visiting-all-points](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
@@ -703,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## String Matching
 |  |
@@ -735,4 +739,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
