@@ -1,6 +1,5 @@
 class Solution:
     def uniformArray(self, nums1: list[int]) -> bool:
-        odds, evens = [], []
         for num in nums1:
             if num % 2 != 0:
                 break
