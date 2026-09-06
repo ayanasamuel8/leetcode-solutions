@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0657-robot-return-to-origin](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0696-count-binary-substrings) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0486-predict-the-winner](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
