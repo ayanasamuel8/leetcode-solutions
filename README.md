@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1096-brace-expansion-ii](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1306-jump-game-iii](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0761-special-binary-string](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0761-special-binary-string) |
+| [1096-brace-expansion-ii](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1200-minimum-absolute-difference](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1340-jump-game-v](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/1340-jump-game-v) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1096-brace-expansion-ii](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -450,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0874-walking-robot-simulation) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0997-find-the-town-judge](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0997-find-the-town-judge) |
+| [1096-brace-expansion-ii](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
@@ -556,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0401-binary-watch](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0756-pyramid-transition-matrix) |
+| [1096-brace-expansion-ii](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1980-find-unique-binary-string](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 ## Bit Manipulation
 |  |
@@ -657,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/0085-maximal-rectangle) |
+| [1096-brace-expansion-ii](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2751-robot-collisions](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/2751-robot-collisions) |
