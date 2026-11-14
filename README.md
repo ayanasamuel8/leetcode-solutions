@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3364-minimum-positive-sum-subarray](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3379-transformed-array](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/3379-transformed-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3364-minimum-positive-sum-subarray](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3546-equal-sum-grid-partition-i](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/3714-longest-balanced-substring-ii) |
@@ -886,6 +888,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2747-count-zero-request-servers](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/2747-count-zero-request-servers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3634-minimum-removals-to-balance-array](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/3634-minimum-removals-to-balance-array) |
 ## Shortest Path
