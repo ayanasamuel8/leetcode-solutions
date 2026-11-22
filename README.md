@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/1871-jump-game-vii) |
 | [1927-sum-game](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/1927-sum-game) |
 | [1980-find-unique-binary-string](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/ayanasamuel8/leetcode-solutions/tree/master/2409-count-days-spent-together) |
